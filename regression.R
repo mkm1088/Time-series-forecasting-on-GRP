@@ -1,4 +1,4 @@
-rawdata<-read.csv("F:/sem 2/DISBA/rita5/Folder_SLFiles (2)/ActualRatings_weeklyGRP.csv")
+rawdata<-read.csv("ActualRatings_weeklyGRP.csv")
 pacman::p_load(tidyverse, lubridate,zoo,forecast, fUnitRoots)
 library(pacman)
 library(ggplot2)
