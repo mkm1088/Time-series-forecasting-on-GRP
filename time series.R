@@ -1,4 +1,4 @@
-rawdata<-read.csv("F:/sem 2/DISBA/rita5/Folder_SLFiles (2)/ActualRatings_weeklyGRP.csv")
+rawdata<-read.csv("ActualRatings_weeklyGRP.csv")
 #grp = size of an advertising campaign , not reached audience
 #start(data)
 View(data)
